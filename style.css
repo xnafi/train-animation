@@ -37,7 +37,7 @@
     left: -250px;
     top: 200px;
     animation-name: train;
-    animation-delay:1s ;
+    animation-delay:2s ;
     animation-duration:20s;
     animation-timing-function:linear;
     animation-play-state: running;
@@ -52,12 +52,9 @@
         
     }
 
-    35% {
+    50% {
         left: -900px;
    
-    }
-    70%{
-        left:-900px;
     }
     100%{
         left: -1800px;
